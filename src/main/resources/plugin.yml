@@ -1,0 +1,6 @@
+main: xyz.awesomenetwork.voidgenerator.Generator
+name: ${project.artifactId}
+version: ${project.version}
+author: MFN
+load: startup
+api-version: 1.18
